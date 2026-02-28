@@ -1,0 +1,186 @@
+[
+  {
+    "Reservoirs": "Alaganuru Balancing",
+    "Current Storage(TMC)": "0.00",
+    "Current Level(Metre)": "248.50",
+    "Max Storage(TMC)": "2.97",
+    "Max Level(Metre)": "265.00",
+    "Dam_Name": "Alaganuru Balancing"
+  },
+  {
+    "Reservoirs": "Brahmamsagar",
+    "Current Storage(TMC)": "15.59",
+    "Current Level(Metre)": "212.70",
+    "Max Storage(TMC)": "17.74",
+    "Max Level(Metre)": "216.50",
+    "Dam_Name": "Brahmamsagar"
+  },
+  {
+    "Reservoirs": "Chitravati Balancing",
+    "Current Storage(TMC)": "9.41",
+    "Current Level(Metre)": "297.33",
+    "Max Storage(TMC)": "10.23",
+    "Max Level(Metre)": "298.00",
+    "Dam_Name": "Chitravati Balancing"
+  },
+  {
+    "Reservoirs": "Donkarayi",
+    "Current Storage(TMC)": "12.22",
+    "Current Level(Metre)": "314.98",
+    "Max Storage(TMC)": "16.51",
+    "Max Level(Metre)": "316.07",
+    "Dam_Name": "Donkarayi"
+  },
+  {
+    "Reservoirs": "Gandikota",
+    "Current Storage(TMC)": "26.11",
+    "Current Level(Metre)": "211.83",
+    "Max Storage(TMC)": "26.85",
+    "Max Level(Metre)": "212.00",
+    "Dam_Name": "Gandikota"
+  },
+  {
+    "Reservoirs": "Gollapalli",
+    "Current Storage(TMC)": "1.70",
+    "Current Level(Metre)": "528.15",
+    "Max Storage(TMC)": "1.91",
+    "Max Level(Metre)": "529.00",
+    "Dam_Name": "Gollapalli"
+  },
+  {
+    "Reservoirs": "Gorakkalu Balancing Reservior",
+    "Current Storage(TMC)": "10.73",
+    "Current Level(Metre)": "257.64",
+    "Max Storage(TMC)": "11.00",
+    "Max Level(Metre)": "261.00",
+    "Dam_Name": "Gorakkalu Balancing Reservior"
+  },
+  {
+    "Reservoirs": "Gotta Barrage",
+    "Current Storage(TMC)": "0.61",
+    "Current Level(Metre)": "38.10",
+    "Max Storage(TMC)": "0.66",
+    "Max Level(Metre)": "38.10",
+    "Dam_Name": "Gotta Barrage"
+  },
+  {
+    "Reservoirs": "Gundlakamma",
+    "Current Storage(TMC)": "3.47",
+    "Current Level(Metre)": "24.00",
+    "Max Storage(TMC)": "3.86",
+    "Max Level(Metre)": "24.38",
+    "Dam_Name": "Gundlakamma"
+  },
+  {
+    "Reservoirs": "Hiramandalam",
+    "Current Storage(TMC)": "3.82",
+    "Current Level(Metre)": "47.59",
+    "Max Storage(TMC)": "10.00",
+    "Max Level(Metre)": "67.30",
+    "Dam_Name": "Hiramandalam"
+  },
+  {
+    "Reservoirs": "Jeedipalli",
+    "Current Storage(TMC)": "1.66",
+    "Current Level(Metre)": "464.14",
+    "Max Storage(TMC)": "1.68",
+    "Max Level(Metre)": "464.20",
+    "Dam_Name": "Jeedipalli"
+  },
+  {
+    "Reservoirs": "Kandaleru",
+    "Current Storage(TMC)": "60.60",
+    "Current Level(Metre)": "83.46",
+    "Max Storage(TMC)": "68.03",
+    "Max Level(Metre)": "85.01",
+    "Dam_Name": "Kandaleru"
+  },
+  {
+    "Reservoirs": "Mid Pennar",
+    "Current Storage(TMC)": "4.85",
+    "Current Level(Metre)": "364.85",
+    "Max Storage(TMC)": "5.17",
+    "Max Level(Metre)": "365.74",
+    "Dam_Name": "Mid Pennar"
+  },
+  {
+    "Reservoirs": "Mylavaram(pennar)",
+    "Current Storage(TMC)": "5.02",
+    "Current Level(Metre)": "198.67",
+    "Max Storage(TMC)": "6.50",
+    "Max Level(Metre)": "201.65",
+    "Dam_Name": "Mylavaram(pennar)"
+  },
+  {
+    "Reservoirs": "Nagarjuna Sagar",
+    "Current Storage(TMC)": "257.08",
+    "Current Level(Metre)": "173.80",
+    "Max Storage(TMC)": "312.05",
+    "Max Level(Metre)": "180.00",
+    "Dam_Name": "Nagarjuna Sagar"
+  },
+  {
+    "Reservoirs": "Nellore Anicut",
+    "Current Storage(TMC)": "0.31",
+    "Current Level(Metre)": "13.42",
+    "Max Storage(TMC)": "0.38",
+    "Max Level(Metre)": "13.72",
+    "Dam_Name": "Nellore Anicut"
+  },
+  {
+    "Reservoirs": "Owk",
+    "Current Storage(TMC)": "2.44",
+    "Current Level(Metre)": "222.05",
+    "Max Storage(TMC)": "3.00",
+    "Max Level(Metre)": "227.00",
+    "Dam_Name": "Owk"
+  },
+  {
+    "Reservoirs": "Paidipalem Balancing",
+    "Current Storage(TMC)": "5.07",
+    "Current Level(Metre)": "277.31",
+    "Max Storage(TMC)": "6.00",
+    "Max Level(Metre)": "281.33",
+    "Dam_Name": "Paidipalem Balancing"
+  },
+  {
+    "Reservoirs": "Penna Ahobilam Balancing",
+    "Current Storage(TMC)": "5.10",
+    "Current Level(Metre)": "435.19",
+    "Max Storage(TMC)": "5.50",
+    "Max Level(Metre)": "443.00",
+    "Dam_Name": "Penna Ahobilam Balancing"
+  },
+  {
+    "Reservoirs": "Prakasam Barrage",
+    "Current Storage(TMC)": "3.07",
+    "Current Level(Metre)": "17.39",
+    "Max Storage(TMC)": "3.07",
+    "Max Level(Metre)": "22.13",
+    "Dam_Name": "Prakasam Barrage"
+  },
+  {
+    "Reservoirs": "Pulichinthala Project",
+    "Current Storage(TMC)": "41.88",
+    "Current Level(Metre)": "52.56",
+    "Max Storage(TMC)": "45.77",
+    "Max Level(Metre)": "53.34",
+    "Dam_Name": "Pulichinthala Project"
+  },
+  {
+    "Reservoirs": "Sangam Anicut / Barrge",
+    "Current Storage(TMC)": "0.38",
+    "Current Level(Metre)": "34.21",
+    "Max Storage(TMC)": "0.45",
+    "Max Level(Metre)": "34.21",
+    "Dam_Name": "Sangam Anicut / Barrge"
+  },
+  {
+    "Reservoirs": "Sarvaraja Sagar",
+    "Current Storage(TMC)": "0.96",
+    "Current Level(Metre)": "194.05",
+    "Max Storage(TMC)": "1.06",
+    "Max Level(Metre)": "201.30",
+    "Dam_Name": "Sarvaraja Sagar"
+  }
+]

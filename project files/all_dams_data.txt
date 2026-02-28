@@ -1,0 +1,166 @@
+================================================================================
+ANDHRA PRADESH DAM WATER LEVEL DATA
+Date: 9th December 2025
+================================================================================
+
+1. Dam Name: Alaganuru Balancing
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+2. Dam Name: Brahmamsagar
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+3. Dam Name: Chitravati Balancing
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+4. Dam Name: Donkarayi
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+5. Dam Name: Gandikota
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+6. Dam Name: Gollapalli
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+7. Dam Name: Gorakkalu Balancing Reservior
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+8. Dam Name: Gotta Barrage
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+9. Dam Name: Gundlakamma
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+10. Dam Name: Hiramandalam
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+11. Dam Name: Jeedipalli
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+12. Dam Name: Kandaleru
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+13. Dam Name: Mid Pennar
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+14. Dam Name: Mylavaram(pennar)
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+15. Dam Name: Nagarjuna Sagar
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+16. Dam Name: Nellore Anicut
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+17. Dam Name: Owk
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+18. Dam Name: Paidipalem Balancing
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+19. Dam Name: Penna Ahobilam Balancing
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+20. Dam Name: Prakasam Barrage
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+21. Dam Name: Pulichinthala Project
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+22. Dam Name: Sangam Anicut / Barrge
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+
+23. Dam Name: Sarvaraja Sagar
+   Current Storage (TMC): N/A
+   Current Level (Metre): N/A
+   Max Storage (TMC): N/A
+   Max Level (Metre): N/A
+--------------------------------------------------------------------------------
+

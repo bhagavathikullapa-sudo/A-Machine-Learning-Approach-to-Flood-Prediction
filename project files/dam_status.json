@@ -1,0 +1,42 @@
+[
+  {
+    "Dam_Name": "Nagarjuna Sagar",
+    "City": "Nagarjuna Sagar",
+    "Current Storage (TMC)": "185.23",
+    "Current Level (Metre)": "176.5",
+    "Max Storage (TMC)": "312.05",
+    "Max Level (Metre)": "179.83"
+  },
+  {
+    "Dam_Name": "Kalyani Dam",
+    "City": "Tirupati",
+    "Current Storage (TMC)": "22.05",
+    "Current Level (Metre)": "280.1",
+    "Max Storage (TMC)": "92.03",
+    "Max Level (Metre)": "285.0"
+  },
+  {
+    "Dam_Name": "Srisailam Dam",
+    "City": "Srisailam",
+    "Current Storage (TMC)": "20.0",
+    "Current Level (Metre)": "265.0",
+    "Max Storage (TMC)": "215.0",
+    "Max Level (Metre)": "270.0"
+  },
+  {
+    "Dam_Name": "Somasila Dam",
+    "City": "Nellore",
+    "Current Storage (TMC)": ".0",
+    "Current Level (Metre)": "80.0",
+    "Max Storage (TMC)": "78.0",
+    "Max Level (Metre)": "88.0"
+  },
+  {
+    "Dam_Name": "Prakasam Barrage",
+    "City": "Vijayawada",
+    "Current Storage (TMC)": "5.0",
+    "Current Level (Metre)": "15.0",
+    "Max Storage (TMC)": "10.0",
+    "Max Level (Metre)": "20.0"
+  }
+]
